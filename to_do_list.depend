@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704741973 source:e:\cs_50\new folder\to_do_list\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
